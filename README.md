@@ -15,8 +15,10 @@ There are currently **34 wallpapers** across **8 categories**.
 
 ### 🧩 Preview
 
-*(Coming soon — screenshots of setups using these wallpapers)*
+<img src="examples/td-maru-example.png" alt="Example using td-maru and special kitty theme." width="500"/>
 
+
+<img src="examples/td-house-example.png" alt="Example using td-house and special kitty theme." width="500"/>
 ---
 
 ### ✒️ Credits
