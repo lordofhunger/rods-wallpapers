@@ -1,13 +1,42 @@
-# Wallpapers
+# 🎴 Aesthetic Wallpapers Collection
 
-In this directory you can find some wallpapers I have collected over the years,
-some of which I've used myself, others I just thought were neat but not for me.
+A curated personal collection of wallpapers gathered over the years — some I've used in my rices, others I just found visually striking. Mostly anime-inspired, with an emphasis on darker, emotional, or atmospheric styles.
 
-Wallpapers are mainly Chainsaw Man, Tengoku Daimakyou/Heavenly Delusion, with some
-others as well on the side.
+> 🌌 Featuring **Chainsaw Man**, **Tengoku Daimakyou / Heavenly Delusion**, and more.
 
-If you are one of the artists or know one of them, feel free to send me a message
-to ask for credit, as these are mainly wallpapers I have had lying around for a
-very long while.
+---
+
+### 🗂️ Structure
+
+Wallpapers are sorted into folders by theme, series, or aesthetic.  
+There are currently **34 wallpapers** across **8 categories**.
+
+---
+
+### 🧩 Preview
+
+*(Coming soon — screenshots of setups using these wallpapers)*
+
+---
+
+### ✒️ Credits
+
+I don’t own these artworks. If you’re the artist (or know them), feel free to reach out and I’ll gladly credit or remove it.
+
+---
+
+### 📥 How to Use
+
+- Clone or download the repo or individual wallpapers
+- Use them as wallpapers, share them in your setups
+
+---
+
+### ✨ Also check out
+
+I'm working on matching **colour schemes** and **terminal rices** for some of these wallpapers. These will be linked here soon. Example setups may follow.
+
+---
 
 -rod
+
