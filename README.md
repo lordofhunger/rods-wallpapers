@@ -22,7 +22,9 @@ the colour scheme is based on the wallpaper.
 
 The second example uses td-house.png and a kitty colour scheme based on the gruvbox colour scheme,
 the vscode theme is nathans gruvbox.
+
 <img src="examples/td-house-example.png" alt="Example using td-house and special kitty theme."/>
+
 ---
 
 ### ✒️ Credits
