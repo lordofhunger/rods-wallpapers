@@ -8,21 +8,21 @@ Personal collection of wallpapers gathered over the years — some I've used in 
 
 ### 🗂️ Structure
 
-Wallpapers are sorted into folders by theme, series, or aesthetic.  
-**Each folder has a README showing off all the wallpapers.**
-There are currently **81 wallpapers** across **8 categories**.
+<p>Wallpapers are sorted into folders by theme, series, or aesthetic.<br>
+**Each folder has a README showing off all the wallpapers.**<br>
+There are currently **81 wallpapers** across **8 categories**.<p>
 
 ---
 
 ### 🧩 Previews
 
-This first example uses td-maru.png and a kitty colour scheme that can be found in examples, 
-the colour scheme is based on the wallpaper.
+<p>This first example uses td-maru.png and a kitty colour scheme that can be found in examples,<br>
+the colour scheme is based on the wallpaper.<\p>
 
 <img src="examples/td-maru-example.png" alt="Example using td-maru and special kitty theme."/>
 
-The second example uses td-house.png and a kitty colour scheme based on the gruvbox colour scheme,
-the vscode theme is nathans gruvbox.
+<p>The second example uses td-house.png and a kitty colour scheme based on the gruvbox colour scheme,<br>
+the vscode theme is nathans gruvbox.<\p>
 
 <img src="examples/td-house-example.png" alt="Example using td-house and special kitty theme."/>
 
@@ -30,14 +30,14 @@ the vscode theme is nathans gruvbox.
 
 ### ✒️ Credits
 
-I don’t own these artworks. If you’re the artist (or know them), feel free to reach out and I’ll gladly credit or remove it.
-Many of these were found on my old system so I don't always exactly know where I got them.
+<p>I don’t own these artworks. If you’re the artist (or know them), feel free to reach out and I’ll gladly credit or remove it.<br>
+Many of these were found on my old system so I don't always exactly know where I got them.<\p>
 
 ---
 
 ### 📥 How to Use
 
-- Clone or download the repo or individual wallpapers
+- Clone or download the repo or individual wallpapers<br>
 - Use them as wallpapers, share them in your setups
 
 ---
