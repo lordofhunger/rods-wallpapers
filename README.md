@@ -7,10 +7,9 @@ Personal collection of wallpapers gathered over the years — some I've used in 
 ---
 
 ### 🗂️ Structure
-
-<p>Wallpapers are sorted into folders by theme, series, or aesthetic.<br>
-**Each folder has a README showing off all the wallpapers.**<br>
-There are currently **81 wallpapers** across **8 categories**.<p>
+Wallpapers are sorted into folders by theme, series, or aesthetic.  
+**Each folder has a README showing off all the wallpapers.**  
+There are currently **81 wallpapers** across **8 categories.**
 
 ---
 
