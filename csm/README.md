@@ -1,1 +1,9 @@
-<img src=".png" alt=""/>
+<img src="csm-asa-yoru.png" alt=""/>
+<img src="csm-power-denji.png" alt=""/>
+<img src="csm-angel.png" alt=""/>
+<img src="csm-denji-pochita.png" alt=""/>
+<img src="csm-denji-reze.png" alt=""/>
+<img src="csm-makima-camera.png" alt=""/>
+<img src="csm-makim-store.png" alt=""/>
+<img src="csm-power.png" alt=""/>
+<img src="csm-power-aki-denji.png" alt=""/>
