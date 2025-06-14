@@ -8,5 +8,5 @@
 <img src="td-kiruko-maru-rough.png" alt=""/>
 <img src="td-maru.png" alt=""/>
 <img src="td-red-sunset.png" alt=""/>
-<img src="td-red-sunset2.png" alt=""/>
+<img src="td-red-sunset-2.png" alt=""/>
 <img src="td-sky.png" alt=""/>
