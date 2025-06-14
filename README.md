@@ -9,7 +9,7 @@ A curated personal collection of wallpapers gathered over the years — some I'v
 ### 🗂️ Structure
 
 Wallpapers are sorted into folders by theme, series, or aesthetic.  
-There are currently **78 wallpapers** across **8 categories**.
+There are currently **81 wallpapers** across **8 categories**.
 
 ---
 
