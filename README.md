@@ -1,6 +1,6 @@
 # 🎴 Aesthetic Wallpapers Collection
 
-A curated personal collection of wallpapers gathered over the years — some I've used in my rices, others I just found visually striking. Mostly anime-inspired, with an emphasis on darker, emotional, or atmospheric styles.
+Personal collection of wallpapers gathered over the years — some I've used in my rices, others I just found neat. Mostly anime-inspired, with an emphasis on darker, emotional, or atmospheric styles.
 
 > 🌌 Featuring **Chainsaw Man**, **Tengoku Daimakyou / Heavenly Delusion**, and more.
 
@@ -30,6 +30,7 @@ the vscode theme is nathans gruvbox.
 ### ✒️ Credits
 
 I don’t own these artworks. If you’re the artist (or know them), feel free to reach out and I’ll gladly credit or remove it.
+Many of these were found on my old system so I don't always exactly know where I got them.
 
 ---
 
