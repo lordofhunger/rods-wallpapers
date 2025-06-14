@@ -1,5 +1,5 @@
-<img src="csm-asa-yoru.png" alt=""/>
-<img src="csm-power-denji.png" alt=""/>
+<img src="cms-asa-yoru.png" alt=""/>
+<img src="cms-power-denji.png" alt=""/>
 <img src="csm-angel.png" alt=""/>
 <img src="csm-denji-pochita.png" alt=""/>
 <img src="csm-denji-reze.png" alt=""/>
