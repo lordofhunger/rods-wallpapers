@@ -15,13 +15,13 @@ There are currently **81 wallpapers** across **8 categories.**
 
 ### 🧩 Previews
 
-<p>This first example uses td-maru.png and a kitty colour scheme that can be found in examples,<br>
-the colour scheme is based on the wallpaper.<\p>
+This first example uses td-maru.png and a kitty colour scheme that can be found in examples,<br>
+the colour scheme is based on the wallpaper.
 
 <img src="examples/td-maru-example.png" alt="Example using td-maru and special kitty theme."/>
 
-<p>The second example uses td-house.png and a kitty colour scheme based on the gruvbox colour scheme,<br>
-the vscode theme is nathans gruvbox.<\p>
+The second example uses td-house.png and a kitty colour scheme based on the gruvbox colour scheme,<br>
+the vscode theme is nathans gruvbox.
 
 <img src="examples/td-house-example.png" alt="Example using td-house and special kitty theme."/>
 
@@ -29,8 +29,8 @@ the vscode theme is nathans gruvbox.<\p>
 
 ### ✒️ Credits
 
-<p>I don’t own these artworks. If you’re the artist (or know them), feel free to reach out and I’ll gladly credit or remove it.<br>
-Many of these were found on my old system so I don't always exactly know where I got them.<\p>
+I don’t own these artworks. If you’re the artist (or know them), feel free to reach out and I’ll gladly credit or remove it.  
+Many of these were found on my old system so I don't always exactly know where I got them.
 
 ---
 
