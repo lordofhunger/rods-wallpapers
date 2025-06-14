@@ -8,7 +8,7 @@
 <img src="forest-art.png" alt=""/>
 <img src="freedom-of-the-sea.png" alt=""/>
 <img src="harbor-art.png" alt=""/>
-<img src="knight-ish-image.png" alt=""/>
+<img src="knight-ish-image.jpeg" alt=""/>
 <img src="knight-ruins-art.png" alt=""/>
 <img src="kraken-knight.png" alt=""/>
 <img src="medieval-town-art.png" alt=""/>
@@ -21,6 +21,6 @@
 <img src="snowy-forest-art.png" alt=""/>
 <img src="space-station.png" alt=""/>
 <img src="temple-crystal.png" alt=""/>
-<img src="train-near-ruins.png" alt=""/>
+<img src="train-near-ruins-art.png" alt=""/>
 <img src="woman.png" alt=""/>
 <img src="woman-art-christian.png" alt=""/>
