@@ -1,4 +1,3 @@
-<img src="game-forest.png" alt="."/>
-<img src="kassandra-ac-odyssey.png" alt="."/>
-<img src="my-buddy-wynd-s-wallpaper.png" alt="This is the wallpaper used by my buddy Wynd."/>
-<img src="steamuserimages-a.akamaihd.png" alt="."/>
+<img src="rust-girl.png" alt="Anime girl holding a Rust programming language book."/>
+<img src="spirited-away-tunnel.png" alt="A mysterious tunnel in a hillside."/>
+<img src="totoro-tunnel.png" alt="Another mysterious tunnel, though, more ominous."/>
