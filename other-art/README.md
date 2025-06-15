@@ -23,6 +23,7 @@
 <img src="pixel-waterfall.png" alt=""/>
 <img src="riflewoman.png" alt=""/>
 <img src="robot-overlord.png" alt=""/>
+<img src="shae-vizla.png" alt=""/>
 <img src="snowy-forest-art.png" alt=""/>
 <img src="space-station.png" alt=""/>
 <img src="temple-crystal.png" alt=""/>
