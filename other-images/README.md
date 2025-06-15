@@ -1,20 +1,18 @@
 # Image Gallery
 
-<img src="1730060340340530.png" alt=""/>
-<img src="1734200075884200.png" alt=""/>
-<img src="1738047577981788.png" alt=""/>
-<img src="1739663179010532.png" alt=""/>
-<img src="1748214835799563.png" alt=""/>
 <img src="bridge-city.png" alt=""/>
 <img src="bridge.png" alt=""/>
 <img src="city-1.png" alt=""/>
 <img src="daydream.png" alt=""/>
+<img src="desert-road.png" alt=""/>
 <img src="desert.png" alt=""/>
 <img src="despair.png" alt=""/>
 <img src="foggy-hill.png" alt=""/>
 <img src="foggy-town-2.png" alt=""/>
+<img src="foggy-town-3.png" alt=""/>
 <img src="foggy-town.png" alt=""/>
 <img src="forest-2.png" alt=""/>
+<img src="ibm-store.png" alt=""/>
 <img src="idyllic-landscape.png" alt=""/>
 <img src="idyllic-mountain-shack.png" alt=""/>
 <img src="japan-1.png" alt=""/>
@@ -24,6 +22,8 @@
 <img src="pursuit-of-power.png" alt=""/>
 <img src="seaside-pebbles.png" alt=""/>
 <img src="shinto-shrine.png" alt=""/>
+<img src="shore-2.png" alt=""/>
+<img src="shore.png" alt=""/>
 <img src="spring-cherry-blossom.png" alt=""/>
 <img src="suburban-winter.png" alt=""/>
 <img src="waterside-forest.png" alt=""/>

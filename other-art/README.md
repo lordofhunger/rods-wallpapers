@@ -1,10 +1,7 @@
 # Image Gallery
 
-<img src="1687557292569287.png" alt=""/>
-<img src="1707523813356108.png" alt=""/>
-<img src="1748088426923943.png" alt=""/>
-<img src="1749400343458411.png" alt=""/>
 <img src="bayard-wu-fighting-harpies.png" alt=""/>
+<img src="character.png" alt=""/>
 <img src="city-streets-art.png" alt=""/>
 <img src="cliffside-town.png" alt=""/>
 <img src="downed-xwing-jungle.png" alt=""/>
@@ -21,6 +18,7 @@
 <img src="knight-ish-image.png" alt=""/>
 <img src="knight-ruins-art.png" alt=""/>
 <img src="kraken-knight.png" alt=""/>
+<img src="library.png" alt=""/>
 <img src="medieval-town-art.png" alt=""/>
 <img src="miku-teto.png" alt=""/>
 <img src="peaceful-village-art.png" alt=""/>
@@ -30,8 +28,10 @@
 <img src="pixel-waterfall.png" alt=""/>
 <img src="riflewoman.png" alt=""/>
 <img src="robot-overlord.png" alt=""/>
+<img src="sea-of-the-damned.png" alt=""/>
 <img src="shae-vizla.png" alt=""/>
 <img src="snowy-forest-art.png" alt=""/>
+<img src="space-library.png" alt=""/>
 <img src="space-station.png" alt=""/>
 <img src="temple-crystal.png" alt=""/>
 <img src="train-near-ruins-art.png" alt=""/>
