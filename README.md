@@ -27,7 +27,7 @@ the vscode theme is nathans gruvbox.
 <img src="examples/td-house-example.png" alt="Example using td-house and special kitty theme."/>  
 
 This example is a rice by RadiationX from the r/unixporn discord, who granted me permission to share it here.  
-The image can be found in ships/freedom-of-the-seas.png.
+The image can be found in ships/freedom-of-the-seas.png.  
 <img src="examples/RadiationX-rice.png" alt="Example using freedom-of-the-seas in Arch Linux, by RadiationX."/> 
 
 ---
