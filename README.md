@@ -16,15 +16,19 @@ There are currently **115 wallpapers** across **12 categories**.
 
 ### 🧩 Previews
 
-This first example uses td-maru.png and a kitty colour scheme that can be found in examples,<br>
+This first example uses tengoku-daimakyou_heavenly-delusion/td-maru.png and a kitty colour scheme that can be found in examples,<br>
 the colour scheme is based on the wallpaper.
 
 <img src="examples/td-maru-example.png" alt="Example using td-maru and special kitty theme."/>
 
-The second example uses td-house.png and a kitty colour scheme based on the gruvbox colour scheme,<br>
+The second example uses tengoku-daimakyou_heavenly-delusion/td-house.png and a kitty colour scheme based on the gruvbox colour scheme,<br>
 the vscode theme is nathans gruvbox.
 
-<img src="examples/td-house-example.png" alt="Example using td-house and special kitty theme."/>
+<img src="examples/td-house-example.png" alt="Example using td-house and special kitty theme."/>  
+
+This example is a rice by RadiationX from the r/unixporn discord, who granted me permission to share it here.  
+The image can be found in ships/freedom-of-the-seas.png.
+<img src="examples/RadiationX-rice.png" alt="Example using freedom-of-the-seas in Arch Linux, by RadiationX."/> 
 
 ---
 
