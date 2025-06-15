@@ -1,3 +1,4 @@
+<img src="bridge.png" alt=""/>
 <img src="bridge-city.png" alt=""/>
 <img src="city-1.png" alt=""/>
 <img src="daydream.png" alt=""/>
@@ -9,14 +10,14 @@
 <img src="forest-2.png" alt=""/>
 <img src="idyllic-landscape.png" alt=""/>
 <img src="idyllic-mountain-shack.png" alt=""/>
-<img src="kassandra-ac-odyssey.png" alt=""/>
+<img src="japan-1.png" alt=""/>
+<img src="mountain.png" alt=""/>
 <img src="peaceful-forest.png" alt=""/>
 <img src="pier.png" alt=""/>
 <img src="pursuit-of-power.png" alt=""/>
 <img src="seaside-pebbles.png" alt=""/>
 <img src="shinto-shrine.png" alt=""/>
 <img src="spring-cherry-blossom.png" alt=""/>
-<img src="steamuserimages-a.akamaihd.png" alt=""/>
 <img src="suburban-winter.png" alt=""/>
 <img src="waterside-forest.png" alt=""/>
 <img src="white-tree.png" alt=""/>
