@@ -28,6 +28,7 @@ the vscode theme is nathans gruvbox.
 
 This example is a rice by RadiationX from the r/unixporn discord, who granted me permission to share it here.  
 The image can be found in ships/freedom-of-the-seas.png.  
+
 <img src="examples/RadiationX-rice.png" alt="Example using freedom-of-the-seas in Arch Linux, by RadiationX."/> 
 
 ---
