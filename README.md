@@ -11,6 +11,27 @@ Personal collection of wallpapers gathered over the years — some I've used in 
 Wallpapers are sorted into folders by theme, series, or aesthetic.  
 There are currently **177 wallpapers** across **22 categories**.  
 
+| ![](anime-in-general/.png) | ![](bridges/bridge.png) | ![](colours/black.png) | ![](comfort/1716875710692339.png) | ![](csm/csm-power-denji.png) |
+|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
+| General Anime           | Bridge                  | colours                 | comfort                 | Chainsaw Man            |
+
+| ![](desolate/1716875580662680.png) | ![](dominant-colour/1722809126862851.png) | ![](eerie/1716875655488192.png) | ![](forests/forest-2.png)  | ![](lakes/1738047868256462.png) |
+|-------------------------|-------------------------|-------------------------|--------------------------|---------------------------|
+| Desolate                | Dominant Colour         | Eerie                   | Forests                  | Lakes                     |
+
+| ![](one-piece/op-1.png) | ![](operating-systems/debian2.png) | ![](other-art/cliffside-town.png) | ![](other-images/ibm-store.png) | ![](own-pictures/wales-2.png) |
+|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| One Piece                 | Operating Systems         | Other Art                 | Other Images              | Own Pictures              |
+
+| ![](pokemon/james-morpeko.png) | ![](programming/rust-girl.png) | ![](schematics/schematics-1.png) | ![](ships/ship.png) | ![](tengoku-daimakyou_heavenly-delusion/td-daytime.png) |
+|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Pokémon                 | Programming                 | Schematics                 | Ships                 | Heavenly Delusion                 |
+
+| ![](video-games/game-forest.png) | ![](winter/1749758970654492.png) | |  |  |
+|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Video Games                 | Winter                 |             |            |               |
+
+
 ---
 
 ### 🧩 Previews
