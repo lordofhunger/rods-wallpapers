@@ -23,6 +23,7 @@
 <img src="miku-teto.png" alt=""/>
 <img src="peaceful-village-art.png" alt=""/>
 <img src="pier-art.png" alt=""/>
+<img src="pixel-cave.png" alt=""/>
 <img src="pixel-forest-city.png" alt=""/>
 <img src="pixel-night-sky.png" alt=""/>
 <img src="pixel-waterfall.png" alt=""/>
