@@ -42,7 +42,8 @@ Many of these were found on my old system so I don't always exactly know where I
 
 ### 📥 How to Use
 
-- Clone or download the repo or individual wallpapers<br>
+- Clone or download the repo or individual wallpapers  
+	`git clone https://github.com/lordofhunger/rods-wallpapers`  
 - Use them as wallpapers, share them in your setups
 
 ---
