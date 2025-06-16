@@ -12,15 +12,10 @@ Wallpapers are sorted into folders by theme, series, or aesthetic.
 There are currently **177 wallpapers** across **22 categories**.  
 
 | <img src="anime-in-general/balloon-girl.png" width="100"/> | <img src="bridges/bridge.png" width="100"/> | <img src="colours/black.png" width="100"/> | <img src="comfort/1716875710692339.png" width="100"/> | <img src="csm/csm-power-denji.png" width="100"/> |
-|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
 | <img src="desolate/1716875580662680.png" width="100"/> | <img src="dominant-colour/1722809126862851.png" width="100"/> | <img src="eerie/1716875655488192.png" width="100"/> | <img src="forests/forest-2.png" width="100"/>  | <img src="lakes/1738047868256462.png" width="100"/> |
-|-------------------------|-------------------------|-------------------------|--------------------------|---------------------------|
 | <img src="one-piece/op-1.png" width="100"/> | <img src="operating-systems/debian2.png" width="100"/> | <img src="other-art/cliffside-town.png" width="100"/> | <img src="other-images/ibm-store.png" width="100"/> | <img src="own-pictures/wales-2.png" width="100"/> |
-|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
 | <img src="pokemon/james-morpeko.png" width="100"/> | <img src="programming/rust-girl.png" width="100"/> | <img src="schematics/schematics-1.png" width="100"/> | <img src="ships/ship.png" width="100"/> | <img src="tengoku-daimakyou_heavenly-delusion/td-daytime.png" width="100"/> |
-|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
 | <img src="video-games/game-forest.png" width="100"/> | <img src="winter/1749758970654492.png" width="100"/> |  |  |  |
-|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
 
 
 
