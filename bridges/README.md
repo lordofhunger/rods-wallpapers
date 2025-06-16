@@ -1,3 +1,3 @@
-# 📁 bridges
+# Wallpaper Previews
 
-<img src="bridge.png" alt="" height="300"/>
+<img src="bridge.png" alt=""/>

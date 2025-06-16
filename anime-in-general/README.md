@@ -1,7 +1,7 @@
-# 📁 anime-in-general
+# Wallpaper Previews
 
-<img src="Kita.png" alt="" height="300"/>
-<img src="balloon-girl.png" alt="" height="300"/>
-<img src="girl-with-katana.png" alt="" height="300"/>
-<img src="spirited-away-tunnel.png" alt="" height="300"/>
-<img src="totoro-tunnel.png" alt="" height="300"/>
+<img src="Kita.png" alt=""/>
+<img src="balloon-girl.png" alt=""/>
+<img src="girl-with-katana.png" alt=""/>
+<img src="spirited-away-tunnel.png" alt=""/>
+<img src="totoro-tunnel.png" alt=""/>

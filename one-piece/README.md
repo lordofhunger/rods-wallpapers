@@ -1,4 +1,4 @@
-# 📁 one-piece
+# Wallpaper Previews
 
-<img src="op-1.png" alt="" height="300"/>
-<img src="op-2.png" alt="" height="300"/>
+<img src="op-1.png" alt=""/>
+<img src="op-2.png" alt=""/>

@@ -1,4 +1,4 @@
-# 📁 colours
+# Wallpaper Previews
 
-<img src="black.png" alt="" height="300"/>
-<img src="windows95.png" alt="" height="300"/>
+<img src="black.png" alt=""/>
+<img src="windows95.png" alt=""/>
