@@ -11,25 +11,26 @@ Personal collection of wallpapers gathered over the years — some I've used in 
 Wallpapers are sorted into folders by theme, series, or aesthetic.  
 There are currently **177 wallpapers** across **22 categories**.  
 
-| ![](anime-in-general/.png) | ![](bridges/bridge.png) | ![](colours/black.png) | ![](comfort/1716875710692339.png) | ![](csm/csm-power-denji.png) |
+| <img src="anime-in-general/balloon-girl.png" width="100"/> | <img src="bridges/bridge.png" width="100"/> | <img src="colours/black.png" width="100"/> | <img src="comfort/1716875710692339.png" width="100"/> | <img src="csm/csm-power-denji.png" width="100"/> |
 |-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
 | General Anime           | Bridge                  | colours                 | comfort                 | Chainsaw Man            |
 
-| ![](desolate/1716875580662680.png) | ![](dominant-colour/1722809126862851.png) | ![](eerie/1716875655488192.png) | ![](forests/forest-2.png)  | ![](lakes/1738047868256462.png) |
+| <img src="desolate/1716875580662680.png" width="100"/> | <img src="dominant-colour/1722809126862851.png" width="100"/> | <img src="eerie/1716875655488192.png" width="100"/> | <img src="forests/forest-2.png" width="100"/>  | <img src="lakes/1738047868256462.png" width="100"/> |
 |-------------------------|-------------------------|-------------------------|--------------------------|---------------------------|
 | Desolate                | Dominant Colour         | Eerie                   | Forests                  | Lakes                     |
 
-| ![](one-piece/op-1.png) | ![](operating-systems/debian2.png) | ![](other-art/cliffside-town.png) | ![](other-images/ibm-store.png) | ![](own-pictures/wales-2.png) |
+| <img src="one-piece/op-1.png" width="100"/> | <img src="operating-systems/debian2.png" width="100"/> | <img src="other-art/cliffside-town.png" width="100"/> | <img src="other-images/ibm-store.png" width="100"/> | <img src="own-pictures/wales-2.png" width="100"/> |
 |---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
 | One Piece                 | Operating Systems         | Other Art                 | Other Images              | Own Pictures              |
 
-| ![](pokemon/james-morpeko.png) | ![](programming/rust-girl.png) | ![](schematics/schematics-1.png) | ![](ships/ship.png) | ![](tengoku-daimakyou_heavenly-delusion/td-daytime.png) |
+| <img src="pokemon/james-morpeko.png" width="100"/> | <img src="programming/rust-girl.png" width="100"/> | <img src="schematics/schematics-1.png" width="100"/> | <img src="ships/ship.png" width="100"/> | <img src="tengoku-daimakyou_heavenly-delusion/td-daytime.png" width="100"/> |
 |---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
 | Pokémon                 | Programming                 | Schematics                 | Ships                 | Heavenly Delusion                 |
 
-| ![](video-games/game-forest.png) | ![](winter/1749758970654492.png) | |  |  |
+| <img src="video-games/game-forest.png" width="100"/> | <img src="winter/1749758970654492.png" width="100"/> |  |  |  |
 |---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
 | Video Games                 | Winter                 |             |            |               |
+
 
 
 ---
