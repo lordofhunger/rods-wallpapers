@@ -9,3 +9,4 @@
 <img src="csm-power-aki-denji.png" alt=""/>
 <img src="csm-power-denji.png" alt=""/>
 <img src="csm-power.png" alt=""/>
+<img src="yoru-asa.png" alt=""/>
