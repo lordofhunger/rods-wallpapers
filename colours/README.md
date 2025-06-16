@@ -1,2 +1,4 @@
-<img src="black.png" alt="Literally just the colour black."/>
-<img src="windows95.png" alt="A colour background apparently from Windows 95."/>
+# 📁 colours
+
+<img src="black.png" alt="" height="300"/>
+<img src="windows95.png" alt="" height="300"/>

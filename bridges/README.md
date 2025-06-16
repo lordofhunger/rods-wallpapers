@@ -1,4 +1,3 @@
-# Image Gallery
+# 📁 bridges
 
-<img src="bridge.png" alt=""/>
-
+<img src="bridge.png" alt="" height="300"/>

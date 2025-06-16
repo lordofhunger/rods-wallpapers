@@ -1,40 +1,39 @@
-# Image Gallery
+# 📁 other-art
 
-<img src="bayard-wu-fighting-harpies.png" alt=""/>
-<img src="character.png" alt=""/>
-<img src="city-streets-art.png" alt=""/>
-<img src="cliffside-town.png" alt=""/>
-<img src="downed-xwing-jungle.png" alt=""/>
-<img src="downed-xwing.png" alt=""/>
-<img src="dragon-knight.png" alt=""/>
-<img src="endless-slumber.png" alt=""/>
-<img src="female-knight-art.png" alt=""/>
-<img src="fields-art.png" alt=""/>
-<img src="forest-art.png" alt=""/>
-<img src="harbor-art.png" alt=""/>
-<img src="house-art.png" alt=""/>
-<img src="japanese-bridge-art-2.png" alt=""/>
-<img src="japanese-bridge-art.png" alt=""/>
-<img src="knight-ish-image.png" alt=""/>
-<img src="knight-ruins-art.png" alt=""/>
-<img src="kraken-knight.png" alt=""/>
-<img src="library.png" alt=""/>
-<img src="medieval-town-art.png" alt=""/>
-<img src="miku-teto.png" alt=""/>
-<img src="peaceful-village-art.png" alt=""/>
-<img src="pier-art.png" alt=""/>
-<img src="pixel-forest-city.png" alt=""/>
-<img src="pixel-night-sky.png" alt=""/>
-<img src="pixel-waterfall.png" alt=""/>
-<img src="riflewoman.png" alt=""/>
-<img src="robot-overlord.png" alt=""/>
-<img src="sea-of-the-damned.png" alt=""/>
-<img src="shae-vizla.png" alt=""/>
-<img src="snowy-forest-art.png" alt=""/>
-<img src="space-library.png" alt=""/>
-<img src="space-station.png" alt=""/>
-<img src="temple-crystal.png" alt=""/>
-<img src="train-near-ruins-art.png" alt=""/>
-<img src="woman-art-christian.png" alt=""/>
-<img src="woman.png" alt=""/>
-
+<img src="bayard-wu-fighting-harpies.png" alt="" height="300"/>
+<img src="character.png" alt="" height="300"/>
+<img src="city-streets-art.png" alt="" height="300"/>
+<img src="cliffside-town.png" alt="" height="300"/>
+<img src="downed-xwing-jungle.png" alt="" height="300"/>
+<img src="downed-xwing.png" alt="" height="300"/>
+<img src="dragon-knight.png" alt="" height="300"/>
+<img src="endless-slumber.png" alt="" height="300"/>
+<img src="female-knight-art.png" alt="" height="300"/>
+<img src="fields-art.png" alt="" height="300"/>
+<img src="forest-art.png" alt="" height="300"/>
+<img src="harbor-art.png" alt="" height="300"/>
+<img src="house-art.png" alt="" height="300"/>
+<img src="japanese-bridge-art-2.png" alt="" height="300"/>
+<img src="japanese-bridge-art.png" alt="" height="300"/>
+<img src="knight-ish-image.png" alt="" height="300"/>
+<img src="knight-ruins-art.png" alt="" height="300"/>
+<img src="kraken-knight.png" alt="" height="300"/>
+<img src="library.png" alt="" height="300"/>
+<img src="medieval-town-art.png" alt="" height="300"/>
+<img src="miku-teto.png" alt="" height="300"/>
+<img src="peaceful-village-art.png" alt="" height="300"/>
+<img src="pier-art.png" alt="" height="300"/>
+<img src="pixel-forest-city.png" alt="" height="300"/>
+<img src="pixel-night-sky.png" alt="" height="300"/>
+<img src="pixel-waterfall.png" alt="" height="300"/>
+<img src="riflewoman.png" alt="" height="300"/>
+<img src="robot-overlord.png" alt="" height="300"/>
+<img src="sea-of-the-damned.png" alt="" height="300"/>
+<img src="shae-vizla.png" alt="" height="300"/>
+<img src="snowy-forest-art.png" alt="" height="300"/>
+<img src="space-library.png" alt="" height="300"/>
+<img src="space-station.png" alt="" height="300"/>
+<img src="temple-crystal.png" alt="" height="300"/>
+<img src="train-near-ruins-art.png" alt="" height="300"/>
+<img src="woman-art-christian.png" alt="" height="300"/>
+<img src="woman.png" alt="" height="300"/>
