@@ -10,6 +10,15 @@ Personal collection of wallpapers gathered over the years — some I've used in 
 **Each folder has a README showing off all the wallpapers.**  
 Wallpapers are sorted into folders by theme, series, or aesthetic.  
 There are currently **252 wallpapers** across **27 categories**.  
+  
+Categories are split up into:  
+0 - anime  
+1 - art  
+2 - pictures  
+3 - colours  
+4 - feelings  
+  
+This is reflected in the dominant digit of a given folder.
 
 ---
 
@@ -18,17 +27,17 @@ There are currently **252 wallpapers** across **27 categories**.
 This first example uses tengoku-daimakyou_heavenly-delusion/td-maru.png and a kitty colour scheme that can be found in examples,<br>
 the colour scheme is based on the wallpaper.
 
-<img src="examples/td-maru-example.png" alt="Example using td-maru and special kitty theme."/>
+<img src=".examples/td-maru-example.png" alt="Example using td-maru and special kitty theme."/>
 
 The second example uses tengoku-daimakyou_heavenly-delusion/td-house.png and a kitty colour scheme based on the gruvbox colour scheme,<br>
 the vscode theme is nathans gruvbox.
 
-<img src="examples/td-house-example.png" alt="Example using td-house and special kitty theme."/>  
+<img src=".examples/td-house-example.png" alt="Example using td-house and special kitty theme."/>  
 
 This example is a rice by RadiationX from the r/unixporn discord, who granted me permission to share it here.  
 The image can be found in ships/freedom-of-the-seas.png.  
 
-<img src="examples/RadiationX-rice.png" alt="Example using freedom-of-the-seas in Arch Linux, by RadiationX."/> 
+<img src=".examples/RadiationX-rice.png" alt="Example using freedom-of-the-seas in Arch Linux, by RadiationX."/> 
 
 ---
 
