@@ -1,68 +1,73 @@
-# 🎴 Aesthetic Wallpapers Collection
+# 🖼️ rods-wallpapers
 
-Personal collection of wallpapers gathered over the years — some I've used in my rices, others I just found neat. Mostly anime-inspired, with an emphasis on darker, emotional, or atmospheric styles.
+A curated collection of wallpapers — mostly anime, mostly moody, always atmospheric.  
+Gathered from forums, archives, screenshots, and friends. Some were used in rices, others were not.
 
-> 🌌 Featuring **Chainsaw Man**, **Tengoku Daimakyou / Heavenly Delusion**, and more.
-
----
-
-### 🗂️ Structure
-Wallpapers are sorted into folders by theme, series, or aesthetic.  
-These folders can be found in wallpapers/
-**Each folder has a README showing off all the wallpapers.**  
-
-There are currently **252 wallpapers** across **27 categories**.  
-  
-Categories are split up into:  
-0 - anime  
-1 - art  
-2 - pictures  
-3 - colours  
-4 - feelings  
-  
-This is reflected in the dominant digit of a given folder.
+> Featuring: *Chainsaw Man*, *Tengoku Daimakyou*, liminal spaces, schematics, programming aesthetics, and more.
 
 ---
 
-### 🧩 Previews
+### 🗂️ Folder Layout
 
-This first example uses tengoku-daimakyou_heavenly-delusion/td-maru.png and a kitty colour scheme that can be found in examples,<br>
-the colour scheme is based on the wallpaper.
+All wallpapers live in `wallpapers/`, grouped thematically and numbered for structure.  
+Each folder contains a local `README.md` for previews and description.
 
-<img src="examples/td-maru-example.png" alt="Example using td-maru and special kitty theme."/>
+There are **252 wallpapers** across **27 folders** — and growing.
 
-The second example uses tengoku-daimakyou_heavenly-delusion/td-house.png and a kitty colour scheme based on the gruvbox colour scheme,<br>
-the vscode theme is nathans gruvbox.
-
-<img src="examples/td-house-example.png" alt="Example using td-house and special kitty theme."/>  
-
-This example is a rice by RadiationX from the r/unixporn discord, who granted me permission to share it here.  
-The image can be found in ships/freedom-of-the-seas.png.  
-
-<img src="examples/RadiationX-rice.png" alt="Example using freedom-of-the-seas in Arch Linux, by RadiationX."/> 
+- `00–09`: Anime and fandom-specific  
+- `10–19`: Digital/technical art & design  
+- `20–29`: Real-world photography or vibe  
+- `30–39`: Colour-based, stylistic, abstract  
+- `40–49`: Feeling-driven, eerie, comforting, empty
 
 ---
 
-### ✒️ Credits
+### 🧩 Preview Examples
 
-I don’t own these artworks. If you’re the artist (or know them), feel free to reach out and I’ll gladly credit or remove it.  
-Many of these were found on my old system so I don't always exactly know where I got them.
+A few themed setups below. Click to view full size.
+
+<table>
+<tr>
+<td align="center">
+<img src="examples/td-maru-example.png" width="250"/><br/>
+<sub><code>td-maru</code> with custom kitty theme</sub>
+</td>
+<td align="center">
+<img src="examples/td-house-example.png" width="250"/><br/>
+<sub><code>td-house</code> in Gruvbox-style setup</sub>
+</td>
+<td align="center">
+<img src="examples/RadiationX-rice.png" width="250"/><br/>
+<sub><code>freedom-of-the-seas</code> by RadiationX</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### ⚠️ Attribution
+
+I don’t own most of the artworks. If you’re the artist (or know them), feel free to reach out and I will gladly credit or remove it.  
+Some were found on old drives and their origins are lost to time.
 
 ---
 
 ### 📥 How to Use
 
 - Clone or download the repo or individual wallpapers  
-	`git clone https://github.com/lordofhunger/rods-wallpapers`  
-- Use them as wallpapers, share them in your setups
+  ```bash
+  git clone https://github.com/lordofhunger/wallpapers
+  ```
+- Use them in your setups, modify them, or just vibe
 
 ---
 
-### ✨ Also check out
+### ✨ Coming Soon
 
-I'm working on matching **colour schemes** and **terminal rices** for some of these wallpapers. These will be linked here soon. Example setups may follow.
+- Matching **colour schemes**
+- More themed **rice examples**
+- Your own submissions? (DM `.lordofhunger` on Discord)
 
 ---
 
 -rod
-
