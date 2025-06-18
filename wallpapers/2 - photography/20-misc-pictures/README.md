@@ -13,7 +13,10 @@
 <img src="ibm-store.png" alt=""/>
 <img src="idyllic-landscape.png" alt=""/>
 <img src="idyllic-mountain-shack.png" alt=""/>
+<img src="island.png" alt=""/>
 <img src="japan-1.png" alt=""/>
+<img src="landscape-3.png" alt=""/>
+<img src="mountain-02.png" alt=""/>
 <img src="mountain.png" alt=""/>
 <img src="pier.png" alt=""/>
 <img src="pursuit-of-power.png" alt=""/>

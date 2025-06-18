@@ -5,6 +5,8 @@
 <img src="balloon-girl.png" alt=""/>
 <img src="circuit.png" alt=""/>
 <img src="door.png" alt=""/>
+<img src="garden.png" alt=""/>
+<img src="gate.png" alt=""/>
 <img src="girl-with-katana.png" alt=""/>
 <img src="literally-me.png" alt=""/>
 <img src="ruins-very-wide.png" alt=""/>
