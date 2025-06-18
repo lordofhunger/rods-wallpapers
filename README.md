@@ -1,6 +1,6 @@
 # Rod's Wallpapers
 
-A hand-picked collection of wallpapers, containing anime, art, abstract, pictures and moods.03.  
+A hand-picked collection of wallpapers, containing anime, art, abstract, pictures and moods.  
 Gathered from forums, archives, screenshots, and friends. Some were used in rices, others were not.
 
 > Featuring: *Chainsaw Man*, *Tengoku Daimakyou*, liminal spaces, schematics, programming, and more.
