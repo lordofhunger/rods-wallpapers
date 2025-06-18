@@ -1,3 +1,3 @@
 # Wallpaper Previews
 
-<img src="italian-tank.png" alt=""/>
+<img src="001-tank.png" alt=""/>

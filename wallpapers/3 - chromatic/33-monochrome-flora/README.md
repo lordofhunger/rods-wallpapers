@@ -18,3 +18,4 @@
 <img src="mono-flower-7.png" alt=""/>
 <img src="mono-flower-8.png" alt=""/>
 <img src="mono-flower-9.png" alt=""/>
+<img src="monochrome-1.png" alt=""/>

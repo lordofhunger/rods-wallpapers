@@ -1,3 +1,3 @@
 # Wallpaper Previews
 
-<img src="bridge.png" alt=""/>
+<img src="001-bridge.png" alt=""/>

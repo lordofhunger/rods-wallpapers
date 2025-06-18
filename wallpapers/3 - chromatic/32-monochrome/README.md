@@ -17,7 +17,6 @@
 <img src="black-mono-8.png" alt=""/>
 <img src="black-mono-9.png" alt=""/>
 <img src="mono-white.png" alt=""/>
-<img src="monochrome-1.png" alt=""/>
 <img src="monochrome-2.png" alt=""/>
 <img src="monochrome-3.png" alt=""/>
 <img src="monochrome-4.png" alt=""/>

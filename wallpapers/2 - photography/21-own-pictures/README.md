@@ -1,4 +1,4 @@
 # Wallpaper Previews
 
-<img src="wales-1.png" alt=""/>
-<img src="wales-2.png" alt=""/>
+<img src="001-wales.png" alt=""/>
+<img src="002-wales.png" alt=""/>
