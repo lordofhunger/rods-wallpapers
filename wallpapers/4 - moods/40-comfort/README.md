@@ -1,4 +1,4 @@
 # Wallpaper Previews
 
-<img src="1687557198868729.png" alt=""/>
-<img src="1716875710692339.png" alt=""/>
+<img src="001-comfort.png" alt=""/>
+<img src="002-comfort.png" alt=""/>

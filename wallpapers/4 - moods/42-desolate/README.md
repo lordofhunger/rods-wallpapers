@@ -1,7 +1,7 @@
 # Wallpaper Previews
 
-<img src="1707108883561166.png" alt=""/>
-<img src="1716875580662680.png" alt=""/>
-<img src="1716876104957164.png" alt=""/>
-<img src="1738047775418393.png" alt=""/>
-<img src="1743938948834937.png" alt=""/>
+<img src="001-desolate.png" alt=""/>
+<img src="002-desolate.png" alt=""/>
+<img src="003-desolate.png" alt=""/>
+<img src="004-desolate.png" alt=""/>
+<img src="005-desolate.png" alt=""/>

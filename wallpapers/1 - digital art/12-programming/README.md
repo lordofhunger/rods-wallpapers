@@ -1,6 +1,6 @@
 # Wallpaper Previews
 
-<img src="1748104514087625.png" alt=""/>
-<img src="c-girl.png" alt=""/>
-<img src="computer.png" alt=""/>
-<img src="rust-girl.png" alt=""/>
+<img src="001-rust.png" alt=""/>
+<img src="002-c.png" alt=""/>
+<img src="003-code.png" alt=""/>
+<img src="004-computer.png" alt=""/>

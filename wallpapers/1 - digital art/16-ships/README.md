@@ -1,5 +1,5 @@
 # Wallpaper Previews
 
-<img src="battleships.png" alt=""/>
-<img src="freedom-of-the-sea.png" alt=""/>
-<img src="ship.png" alt=""/>
+<img src="001-battleships.png" alt=""/>
+<img src="002-ship.png" alt=""/>
+<img src="003-freedom.png" alt=""/>
