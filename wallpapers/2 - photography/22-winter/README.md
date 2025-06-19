@@ -16,5 +16,3 @@
 <img src="014-winter.png" alt=""/>
 <img src="015-winter.png" alt=""/>
 <img src="016-winter.png" alt=""/>
-<img src="017-winter.png" alt=""/>
-<img src="018-winter.png" alt=""/>
