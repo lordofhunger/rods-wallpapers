@@ -1,7 +1,7 @@
 # Wallpaper Previews
 
-<img src="1719120011352912.png" alt=""/>
-<img src="1738047740724957.png" alt=""/>
-<img src="1738047868256462.png" alt=""/>
-<img src="1742742634924018.png" alt=""/>
-<img src="1747626765493055.png" alt=""/>
+<img src="001-lake.png" alt=""/>
+<img src="002-lake.png" alt=""/>
+<img src="003-lake.png" alt=""/>
+<img src="004-lake.png" alt=""/>
+<img src="005-lake.png" alt=""/>
