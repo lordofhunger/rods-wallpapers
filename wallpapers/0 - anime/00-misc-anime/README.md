@@ -14,3 +14,6 @@
 <img src="012-me.png" alt=""/>
 <img src="013-wide.png" alt=""/>
 <img src="014-thick.png" alt=""/>
+<img src="015-honey-and-clover.png" alt=""/>
+<img src="016-honey-and-clover.png" alt=""/>
+<img src="017-mayuri-shiina.png" alt=""/>
