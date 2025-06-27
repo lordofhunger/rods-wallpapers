@@ -12,7 +12,7 @@ Gathered from forums, archives, screenshots, and friends. Some were used in rice
 All wallpapers live in `wallpapers/`, grouped thematically and numbered for structure.  
 Each folder contains a local `README.md` for previews and description.
 
-There are **317 wallpapers** across **29 folders** and growing.
+There are **331 wallpapers** across **30 folders** and growing.
 
 - `00–09`: Anime, general and specific  
 - `10–19`: Digital/technical art & design  

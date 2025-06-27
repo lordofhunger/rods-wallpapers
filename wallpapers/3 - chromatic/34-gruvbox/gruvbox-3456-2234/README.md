@@ -14,4 +14,3 @@
 <img src="012-woman.png" alt=""/>
 <img src="013-sunflowers.png" alt=""/>
 <img src="014-tanjiro-kamado.png" alt=""/>
-<img src="5m5kLI9.png" alt=""/>
