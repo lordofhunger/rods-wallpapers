@@ -13,6 +13,7 @@ All wallpapers live in `wallpapers/`, grouped thematically and numbered for stru
 Each folder contains a local `README.md` for previews and description.
 
 There are **379 wallpapers** across **31 folders** and growing.
+Requests that are not wallpapers (videos, colour schemes) can be found in 'other-requests'.
 
 - `00–09`: Anime, general and specific  
 - `10–19`: Digital/technical art & design  
