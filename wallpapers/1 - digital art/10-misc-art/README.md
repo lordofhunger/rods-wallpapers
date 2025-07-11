@@ -47,3 +47,9 @@
 <img src="045-crystal.png" alt=""/>
 <img src="046-woman.png" alt=""/>
 <img src="047-woman.png" alt=""/>
+<img src="048-camille-unknown.png" alt=""/>
+<img src="049-camille-unknown.png" alt=""/>
+<img src="050-camille-unknown.png" alt=""/>
+<img src="051-falltree.png" alt=""/>
+<img src="052-primal-man.png" alt=""/>
+<img src="053-vaguely-imperial.png" alt=""/>
