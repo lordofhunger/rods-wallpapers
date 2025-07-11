@@ -12,3 +12,11 @@
 <img src="010-open-suse.png" alt=""/>
 <img src="011-ubuntu.png" alt=""/>
 <img src="012-windows.png" alt=""/>
+<img src="025-kali-red.png" alt=""/>
+<img src="026-kali-purple.png" alt=""/>
+<img src="027-kali-heart.png" alt=""/>
+<img src="028-kali-rb.png" alt=""/>
+<img src="029-kali-mesh.png" alt=""/>
+<img src="030-kali-girl.png" alt=""/>
+<img src="031-kali-girl.png" alt=""/>
+<img src="032-kali-girl.png" alt=""/>
